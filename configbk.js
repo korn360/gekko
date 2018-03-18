@@ -20,7 +20,7 @@ config.debug = true; // for additional logging / debugging
 config.watch = {
 
   // see https://gekko.wizb.it/docs/introduction/supported_exchanges.html
-  exchange: 'poloniex',
+  exchange: 'binance',
   currency: 'USDT',
   asset: 'BTC',
 
